@@ -39,6 +39,58 @@ Up until the mid-19th century, clappers were suspended from a U-shaped wrought i
 
 The clapper was usually suspended from a cast-in crown staple using a baldrick (or ‘baldric’) mechanism - essentially a leather strap. In the absence (or after the removal) of a cast-in crown staple, a separate bolt passed up through the crown of the bell and the headstock with the clapper suspended from a baldrick or using some wooden clamping mechanism.
 
+| ![IMG_0839-edited.jpg](IMG_0839-edited.jpg) |
+|:--:|
+| Fig C. Wrought iron clapper with Rudhall wooden top, removed from fourth bell at Thornbury, South Glos, during rehanging in 1996. (Photo: Robin Shipp) |
+
+#### Modern Independent Clapper Assemblies
+
+In modern installations, the clapper is suspended from an independent crown staple, as shown in [annotated photo], passing up through the crown of the bell and the headstock. Working down from the top, the component parts are:
+
+* A fixing nut at the top of the headstock. There are several possibilities for this:
+  * The most common is a castellated nut held in place with a split pin. Stainless steel split pins are preferred to avoid corrosion and they may need to be replaced after removal.
+  * A plain nut with a split pin above - the nut may work loose but should not come off completely.
+  * A nut plus a locknut - see Fig. A
+  * A nut with a sacrificial plastic insert - this type must be replaced every time the nut is removed.
+* Proprietary locking nuts with a metallic spring section that clamps to the thread.
+* A steel washer between the nut and the top of the headstock.
+* The part of the staple bolt within the headstock is normally of square section.
+* Within the crown of the bell is the crown staple washer, made of leather or fibre. When the crown staple nut is tightened, this helps to lock the crown staple in position within the bell. This is particularly important where the inside of the crown of the bell is rough - for example where the bell has been quarter turned.
+* At the bottom of the crown staple is a clevis fitting comprising a U-shaped yoke with a pivot pin supporting the clapper - described in the following section.
+
+#### Pivot Pin and Clapper Bushes
+
+The U-shaped clevis has two holes to accommodate a pivot pin. One hole and one end of the pin are threaded. After insertion, the threaded end of the pin protrudes through the clevis and is secured by a locknut - possibly a castellated one with a split pin. In most modern designs, the other end of the pin has a machined flat to allow an adjustable or C-spanner to hold the pin while the locknut is tightened. [Photo] This forms a ‘headless bolt’ to avoid stressing the clevis. If a bolt head is present, care must be taken not to overtighten as this could crack a cast staple or bend a steel one.
+
+> Some designs of wooden shafted clappers have a ball bearing suspension. This is outside the scope of this document.
+
+The top end of the clapper has a hole through which the pivot pin passes, lined with a bush. Various types of bush may be encountered:
+
+Traditionally, clapper bushes were made of lignum vitae. This is a dense wood (it sinks in water) containing oils which provide some natural lubrication. It is ideal as a bearing material and has been used for bearings in hydro-electric plants and nuclear submarines. Unfortunately, the source trees are now regarded as ‘Near Threatened’ making further use of this material unsustainable. If worn lignum vitae bushes are encountered, they must be replaced - this is outside the scope of this document.
+Clapper bushes made from lignum vitae required additional lubrication, either by a screw cap lubricator of the ‘Stauffer’ type or a grease nipple. Although more modern types of metal or plastic bushes may require no lubrication some bell hangers still provide grease nipples or similar. On balance, a method of lubrication is preferable but the benefit of retrospective fitting may be small.
+Modern types of clapper bush are:
+Oil impregnated sintered phosphor bronze bushes.
+Nylon bushes were used but experienced the problem of swelling when damp or at elevated temperature. Such bushes are rarely fitted now but need not be replaced if performing satisfactorily. If necessary, the swelling problem can be rectified by careful reaming.
+Clappers are commonly now fitted with bushes made from a thin TUFNOL tube backed by rubber. (TUFNOL is a proprietary laminated material impregnated with phenolic resin).
+
+The top end of the clapper has a hole through which the pivot pin passes, lined with a bush. Various types of bush may be encountered:
+
+* Traditionally, clapper bushes were made of lignum vitae. This is a dense wood (it sinks in water) containing oils which provide some natural lubrication. It is ideal as a bearing material and has been used for bearings in hydro-electric plants and nuclear submarines. Unfortunately, the source trees are now regarded as ‘Near Threatened’ making further use of this material unsustainable. If worn lignum vitae bushes are encountered, they must be replaced - this is outside the scope of this document.
+* Clapper bushes made from lignum vitae required additional lubrication, either by a screw cap lubricator of the ‘Stauffer’ type or a grease nipple. Although more modern types of metal or plastic bushes may require no lubrication some bell hangers still provide grease nipples or similar. On balance, a method of lubrication is preferable but the benefit of retrospective fitting may be small.
+* Modern types of clapper bush are:
+  * Oil impregnated sintered phosphor bronze bushes.
+  * Nylon bushes were used but experienced the problem of swelling when damp or at elevated temperature. Such bushes are rarely fitted now but need not be replaced if performing satisfactorily. If necessary, the swelling problem can be rectified by careful reaming.
+  * Clappers are commonly now fitted with bushes made from a thin TUFNOL tube backed by rubber. (TUFNOL is a proprietary laminated material impregnated with phenolic resin).
+
+####  Clapper Centring Pins (‘Twiddle Pins’)
+
+While not strictly part of the clapper, it is appropriate to mention these here.
+
+Most modern rings of bells with cast iron or fabricated steel headstocks have clapper centring pins fitted - usually known as ‘Twiddle Pins’. There is clearance where the crown staple passes through the bottom of the headstock and the crown of the bell and twiddle pins allow the crown staple to be positioned in the centre of the bell. There is a twiddle pin on either side of the headstock (see Fig. A), each pin comprising a bolt which locates against the generally square section of the staple. The crown staple can be positioned by slackening one pin and tightening the other. Locknuts on each pin allow the pins to be locked in place when the process is complete.
+
+The use of twiddle pins to correct an odd-struck bell is described in [Odd-Struck Bells](odd-struck-bells).
+
 | ![IMG_0579-annotated-resized.jpg](IMG_0579-annotated-resized.jpg) |
 |:--:|
-| Fig C. Wrought iron clapper with Rudhall wooden top, removed from fourth bell at Thornbury, South Glos, during rehanging in 1996. *Photo: Robin Shipp* |
+| Fig A. Headstock of Tenor bell at Thornbury, South Glos, showing (A) ‘Twiddle Pin’ and (B) crown staple secured by a nut and locknut. (Photo: Robin Shipp) |
+

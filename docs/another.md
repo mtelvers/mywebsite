@@ -12,7 +12,7 @@ This chapter covers:
 > With very few exceptions, ringers do not own the bells.
 > Permission must be obtained from the relevant authority before any work is carried out - see Permission to Carry out Work.
 
-Background
+### Background
 
 A clapper comprises four main components:
 

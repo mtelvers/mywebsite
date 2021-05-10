@@ -80,14 +80,9 @@ bolt passed up through the crown of the bell and the headstock with the
 clapper suspended from a baldrick or using some wooden clamping
 mechanism.
 
-  -----------------------------------------------------------------------
-                         ![](IMG_0839-edited.jpg)
-  -----------------------------------------------------------------------
-     Fig C. Wrought iron clapper with Rudhall wooden top, removed from
-  fourth bell at Thornbury, South Glos, during rehanging in 1996. (Photo:
-                               Robin Shipp)
-
-  -----------------------------------------------------------------------
+| ![IMG_0839-edited.jpg](IMG_0839-edited.jpg) |
+|:--:|
+| Fig C. Wrought iron clapper with Rudhall wooden top, removed from fourth bell at Thornbury, South Glos, during rehanging in 1996. (Photo: Robin Shipp) |
 
 #### Modern Independent Clapper Assemblies
 
@@ -207,14 +202,10 @@ when the process is complete.
 The use of twiddle pins to correct an odd-struck bell is described in
 [Odd-Struck Bells](odd-struck-bells).
 
-  -----------------------------------------------------------------------
-                    ![](IMG_0579-annotated-resized.jpg)
-  -----------------------------------------------------------------------
-   Fig A. Headstock of Tenor bell at Thornbury, South Glos, showing (A)
-     'Twiddle Pin' and (B) crown staple secured by a nut and locknut.
-                           (Photo: Robin Shipp)
+| ![IMG_0579-annotated-resized.jpg](IMG_0579-annotated-resized.jpg) |
+|:--:|
+| Fig A. Headstock of Tenor bell at Thornbury, South Glos, showing (A) ‘Twiddle Pin’ and (B) crown staple secured by a nut and locknut. (Photo: Robin Shipp) |
 
-  -----------------------------------------------------------------------
 
 ### Inspection of Clappers
 
@@ -425,9 +416,9 @@ keeper can deal with. The failure usually results from a fatigue crack
 initiated from a surface or internal defect. It is to be hoped that such
 failures may become less common with better designs of SG clappers.
 
-                   ![](IMG_0699-edited.jpg)
-  ----------------------------------------------------------
-   Fig B. SG clapper broken at top end. (Photo: Dave Clark)
+| ![IMG_0699-edited.jpg](IMG_0699-edited.jpg) |
+|:--:|
+| Fig B. SG clapper broken at top end. (Photo: Dave Clark) |
 
 The steeple keeper can play a part by removing the remains of the broken
 clapper and by installing the new or repaired one.

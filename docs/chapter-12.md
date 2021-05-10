@@ -250,12 +250,11 @@ The procedure for inspection is as follows:
     well-maintained bell, there should be no vertical movement of the
     crown staple nut.
 6.  There are two main reasons why movement might occur:
-
--   The nut may have worked loose. This is unlikely with a castellated
-    nut and split pin or a proprietary type of locknut but might occur
-    with other types of nut. The corrective action is described in
-    Correcting loose crown staple nut.
--   The crown staple washer may be damaged.
+  -   The nut may have worked loose. This is unlikely with a castellated
+      nut and split pin or a proprietary type of locknut but might occur
+      with other types of nut. The corrective action is described in
+      Correcting loose crown staple nut.
+  -   The crown staple washer may be damaged.
 
 7.  With the crown staple tight in the crown of the bell, there may
     still be some small vertical movement arising from play in the

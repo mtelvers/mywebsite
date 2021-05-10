@@ -94,3 +94,73 @@ The use of twiddle pins to correct an odd-struck bell is described in [Odd-Struc
 |:--:|
 | Fig A. Headstock of Tenor bell at Thornbury, South Glos, showing (A) ‘Twiddle Pin’ and (B) crown staple secured by a nut and locknut. (Photo: Robin Shipp) |
 
+### Inspection of Clappers
+
+This Section deals with initial and regular inspections of clappers. Routine inspection and maintenance should be carried out in accordance with a schedule - see Maintenance Schedule - and results of all inspections, including issues raised and how they were resolved, should be recorded.
+
+For both practical and safety reasons, the inspection and any subsequent maintenance must be carried out by at least two people, taking account of Health & Safety Requirements. The Lead Inspector should have a knowledge of the construction of clappers, as set out earlier, and should have demonstrated competence by carrying out at least one inspection under the supervision of an experienced Inspector. The inspections described here can be carried out by a local Inspector and helpers on the more modern independent crown staple designs; inspections on the older types of clapper suspension may require assistance from more experienced personnel.
+
+The procedure for inspection is as follows:
+
+1. Standing in the pit, swing the clapper to check for squealing or grinding noises. It should swing smoothly and noiselessly. If not, this could indicate problems with the clapper bush. If the clapper has provision for lubrication this should be used.
+2. Check the clapper is swinging ‘true’ - that is, the axes of rotation of the bell and the clapper are parallel. This can be checked by loosely holding the clapper vertical while an assistant swings the bell through a small angle. If the clapper is not true it will move slightly sideways as the bell swings. Correction of this problem is described in Clapper not swinging true.
+3. If this is a first inspection, assess the extent of the clapper impact area on the inside of the bell. If elongated this indicates wear of the clapper bush.
+4. If the bell has a wooden clapper, this is a good time to check the tightness of the bolts securing the shaft to the clapper ball and the top fitting.
+5. Check the movement of the clapper by attempting to lift the clapper vertically while an assistant holds the crown staple nut lightly (if twiddle pins are present, slacken one of them first). On a well-maintained bell, there should be no vertical movement of the crown staple nut.
+6. There are two main reasons why movement might occur:
+  * The nut may have worked loose. This is unlikely with a castellated nut and split pin or a proprietary type of locknut but might occur with other types of nut. The corrective action is described in Correcting loose crown staple nut.
+  * The crown staple washer may be damaged.
+7. With the crown staple tight in the crown of the bell, there may still be some small vertical movement arising from play in the clapper bush. This can be investigated further by checking the sideways movement of the clapper - sometimes termed ‘clapper roll’. This is a sensitive measurement as a small movement in the bush is magnified by the length of the clapper. Clapper roll is measured most easily by standing in front of the bell with the clapper pulled to touch the rim. The total extent (left to right) of sideways movement can then be measured. The amount of roll should be checked at each inspection to provide a history of bush wear and to give warning of the need for re-bushing. As a guide, clapper roll over 20mm is warning of a need to plan for re-bushing and over 50mm requires immediate attention. A sudden large increase in clapper roll may indicate breakage of the pivot pin.
+
+> If the bells have not been inspected for a long time, wear of the bush will be revealed by an elongated impact area on the bell
+
+It will be necessary to remove the clapper to investigate (a) noise from the swinging clapper, (b) excessive clapper roll, or (c) possible damage to the crown staple washer or pivot pin - clapper removal is described in Removal and replacement of a clapper.
+
+### Maintenance
+
+> When working under small bells it may be necessary to remove the slider (if present) to provide better access. You MUST check it has been replaced correctly when the work is complete.
+
+#### Removal of a cast-in crown staple
+
+Removal of a cast-in crown staple must be carried out by a professional bell hanger, commonly within their workshop. Note that this work will require a faculty (see Permission to Carry out Work).
+
+#### Clapper not swinging true
+
+The procedure is:
+
+1. Slacken off one twiddle pin if present
+2. Assistant just slackens the crown staple nut
+3. Inspector (in the bell pit) pulls the clapper to the side of the bell and rotates it to the central position
+4. Inspector loosely holds the clapper vertical and checks for sideways movement as assistant swings the bell through a small angle
+5. Repeat steps 3 and 4 until the Inspector is satisfied that the clapper is swinging true
+6. Inspector holds the clapper in the correct position against the edge of the bell while the assistant tightens the crown staple nut and, if fitted, the twiddle pin
+7. Repeat step 4 to check that the clapper is still swinging true - over-enthusiastic re-tightening of the crown staple nut may rotate the crown staple.
+
+Record a note to check again at the next inspection interval. The clapper will need removal for further investigation if the problem recurs.
+
+#### Correcting loose crown staple nut
+
+As in replacement of the clapper described below.
+
+#### Removal and replacement of a clapper
+
+> Using local effort to remove and replace a clapper is valuable, since it saves a bell hanger the time and expense of travel to do this small part of the work.
+
+Removal and replacement of a clapper is within the capability of an average steeple keeper, even if rectification of any problems require specialist services.
+
+1. If necessary, remove the split pin. Slightly loosen the crown staple nut, ideally using the correct size spanner, although a large adjustable spanner is a possible alternative. This may require some effort if the nut was over-tightened in the past.
+2. If twiddle pins are present, slacken one.
+3. Using tape or a marker pen, mark the ground pulley side of the clapper and the crown staple. This is to ensure that the clapper is replaced in the original orientation.
+4. An assistant stands in the pit ready to support the clapper while the Inspector removes the crown staple nut. The Inspector must warn the assistant just before the nut comes off the thread. The nut and washer are replaced for safe keeping on the crown staple after removal.
+
+With the assembly removed, any problems with a worn bush, failure of a pivot pin or a damaged washer will usually be obvious. Any problems can be rectified either by a local engineering specialist or a bell hanger.
+
+Replacement of the clapper follows the reverse procedure, ensuring that:
+
+1. The clapper is replaced in the original orientation, checking it is swinging true - see above
+2. The twiddle pin, if present, is tightened. This is done with the crown staple nut just tight (‘nipped up’ seems to be the technical term)
+3. The crown staple nut is tightened. A rule of thumb is to use only a moderate force applied to a 10" (25cm) spanner.
+4. A final check is carried out to ensure the clapper is swinging true
+
+Finally, details of the work carried out are recorded for future reference.
+

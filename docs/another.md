@@ -39,3 +39,6 @@ Up until the mid-19th century, clappers were suspended from a U-shaped wrought i
 
 The clapper was usually suspended from a cast-in crown staple using a baldrick (or ‘baldric’) mechanism - essentially a leather strap. In the absence (or after the removal) of a cast-in crown staple, a separate bolt passed up through the crown of the bell and the headstock with the clapper suspended from a baldrick or using some wooden clamping mechanism.
 
+| ![IMG_0579-annotated-resized.jpg](IMG_0579-annotated-resized.jpg) |
+|:--:|
+| Fig C. Wrought iron clapper with Rudhall wooden top, removed from fourth bell at Thornbury, South Glos, during rehanging in 1996. *Photo: Robin Shipp* |

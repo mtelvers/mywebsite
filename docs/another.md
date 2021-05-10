@@ -4,7 +4,7 @@
 
 This chapter covers:
 
-* Background: The various types of clappers, how they are made and suspended within the bell
+* [link](Background): The various types of clappers, how they are made and suspended within the bell
 * Inspection of Clappers: The ways in which clappers can be inspected, both as part of a routine maintenance schedule and to investigate any problems
 * Maintenance: The options for dealing with problems and the level of experience needed to carry them out
 * Final sections cover: Other Information relevant to clappers and Further Reading

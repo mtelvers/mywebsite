@@ -10,7 +10,7 @@ This chapter covers:
 * [Final sections cover](#final-section-cover): Other Information relevant to clappers and Further Reading
 
 > With very few exceptions, ringers do not own the bells.
-> Permission must be obtained from the relevant authority before any work is carried out - see Permission to Carry out Work.
+> Permission must be obtained from the relevant authority before any work is carried out - see [Permission to Carry out Work](#permission-to-carry-out-work).
 
 ### Background
 
@@ -122,7 +122,7 @@ It will be necessary to remove the clapper to investigate (a) noise from the swi
 
 #### Removal of a cast-in crown staple
 
-Removal of a cast-in crown staple must be carried out by a professional bell hanger, commonly within their workshop. Note that this work will require a faculty (see Permission to Carry out Work).
+Removal of a cast-in crown staple must be carried out by a professional bell hanger, commonly within their workshop. Note that this work will require a faculty (see [Permission to Carry out Work](#permission-to-carry-out-work)).
 
 #### Clapper not swinging true
 

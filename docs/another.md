@@ -164,3 +164,74 @@ Replacement of the clapper follows the reverse procedure, ensuring that:
 
 Finally, details of the work carried out are recorded for future reference.
 
+### Other Information
+
+#### Odd-Struck Bells
+
+Ideally, the time it takes for a bell to strike after being pulled off at handstroke should be equal to the time at backstroke. Many ringers will have visited towers where they are warned that a certain bell is “a bit slow at handstroke” or something similar. But this should not be the case for a modern bell with the clapper hanging in the centre of the bell at rest.
+
+A bell that is noticeably odd-struck and has twiddle pins can be corrected as follows:
+
+1. With the bell down, pull up the rope and secure it to take the weight of the rope off the wheel. The bell should now be at bottom dead centre of its rotation. If possible, check this with a straight edge and a spirit level across the mouth of the bell. (A bell on plain bearings may need nudging for it to settle at bottom dead centre.)
+2. Slightly loosen the crown staple nut.
+3. Standing facing the bell, touch the end of a tape measure against the striking surface on the clapper ball (taking care not to move the clapper) and read the measurement to the lip of the bell.
+4. Repeat this on the opposite side (it helps to have one person on each side).
+5. If the readings are different, slacken one twiddle pin and tighten the other.
+6. Repeat steps 3 to 5 until the two measurements are equal, ideally to within 1mm.
+7. Re-tighten the crown staple nut and re-instate the bell rope.
+
+If twiddle pins are not present, the recommendation is to place a tapered washer (or a half-washer) under the crown of the bell. But this is outside the scope of this document.
+
+Electronic devices are available for measuring odd-struckness - as described in [Odd-struckness and Swing Periods](#odd-struckness-and-swing-periods). It may be possible to find someone able to offer this as a service - perhaps in your local Guild or Association. Such a device can offer useful data on the swing periods of bells and the comparison between all bells in the ring - see also in [Odd-struckness and Swing Periods](#odd-struckness-and-swing-periods). While outside the scope of this document, this may be worth investigating as a way of dealing with problems in striking for some rings of bells.
+
+#### Clapper Breakage
+
+A broken clapper (see Fig. B) is not something that a local steeple keeper can deal with. The failure usually results from a fatigue crack initiated from a surface or internal defect. It is to be hoped that such failures may become less common with better designs of SG clappers.
+
+| ![IMG_0699-edited.jpg](IMG_0699-edited.jpg) |
+|:--:|
+| Fig B. SG clapper broken at top end. (Photo: Dave Clark) |
+
+The steeple keeper can play a part by removing the remains of the broken clapper and by installing the new or repaired one.
+
+> In the event of a broken clapper, the steeple keeper must check all parts of the installation for any consequential damage caused by the flying clapper.
+
+#### Worn Clapper Ball
+
+Wear on the striking face of the clapper ball should be checked during routine maintenance. If a substantial flat surface has developed this is a job for a bell hanger, although the steeple keeper can assist by removing and replacing the clapper. The bell hanger may be able to twist and re-forge the shaft of a wrought iron clapper to present a new striking face.
+
+#### Bell going up Wrong
+
+Some bells are prone to going up ‘wrong’. That is, the clapper is on the lower (wrong) side of the bell when it is set at handstroke after raising. For some bells, it may be difficult to set the bell when this occurs. This depends on the design of bell and clapper - more specifically, on (a) the distance between the two axes of rotation of bell and clapper, and (b) the low amplitude swing periods of the bell and clapper. As a rough guide, the low amplitude swing period of the clapper should be at least 90% that of the bell.
+
+Rectification is a job for specialists, although replacement with a wooden shafted clapper may help.
+
+### Further Reading
+
+#### Permission to Carry out Work
+
+For towers within the jurisdiction of the Church of England, the churchwardens and the Parochial Church Council are responsible for the maintenance of the tower and bells. Their consent should be obtained for all work on the bell installation and they must obtain a Faculty where appropriate. The latest (2019) Faculty Jurisdiction Rules are available online [here](http://www.legislation.gov.uk/uksi/2019/1184/made). See also the Stewardship & Management Guidance Note: Backhurst, R and Hodge, A. Changes to the Church of England Faculty Jurisdiction Rules - A Guide for Bell Ringers (2020), available online [here](https://cccbr.org.uk/wp-content/uploads/2020/08/SM_Faculty_Changes_2020_Ver_1.pdf).
+
+Different arrangements will apply in other jurisdictions within the UK and world-wide. Local advice must be sought.
+
+#### Health & Safety Requirements
+
+Advice on risk minimisation in a tower is included in the Stewardship & Management Guidance Note on "Tower Safety & Risk Assessment" available online [here](https://cccbr.org.uk/wp-content/uploads/2020/11/SM_Risk-Assessment_2020_Ver_1.pdf).
+
+Personal protection should include work boots with steel toecaps and good ankle support, gloves, and head protection. A ‘Bump Cap’ may be preferable to the traditional safety helmet (‘hard hat’) when working in confined conditions but note that a bump cap is not intended to provide protection from falling objects.
+
+#### Wooden Shafted Clappers
+
+Bernard Taylor provides a history of the development of wooden shafted clappers in: “Wheeler’s Wooden Wallopers”. The Ringing World 2020(5721): 1258-1261. Several other suppliers now provide their own designs.
+
+#### Maintenance Schedule
+
+An example maintenance schedule and checklist is online [here](https://cccbr.org.uk/wp-content/uploads/2021/01/Tower-survey-v1-26-Jan-2021.docx). (Note that this is in the form of a .docx file to allow it to be customised for any tower.)
+
+#### Odd-Struckness and Swing Periods
+
+David Bagley describes a meter for measuring odd-struckness in “Oddstruckness - What it is and how to measure it”, The Ringing World 2019 (5653): 840-841.
+
+Bernard Taylor describes work on swing periods and the matching of bells within a ring in “Creating a well-balanced ring at Worcester”, The Ringing World 2019 (5686): 388-391, (5694): 582-585 and (5679): 652-653.
+
+
